@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ml_yellow">#FFF159</color>
+    <color name="ml_yellow_header">#FFE600</color>
+    <color name="ml_blue">#3483FA</color>
+    <color name="ml_green">#00A650</color>
+    <color name="ml_green_bg">#E6F7EE</color>
+    <color name="ml_dark_text">#333333</color>
+    <color name="ml_gray_text">#666666</color>
+    <color name="ml_light_gray">#EEEEEE</color>
+    <color name="ml_category_bg">#FFFFFF</color>
+</resources>
